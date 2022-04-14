@@ -1,6 +1,7 @@
 # A3C - Breakout
 
 Bu projede, [Asynchronous Advanced Actor Critic](https://arxiv.org/abs/1602.01783) algoritması kullanılarak [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) oynunu oynayan bir yapay zeka ajanı tasarlanmıştır.
+Proje [kaynak](https://www.udemy.com/course/artificial-intelligence-az) kursu temel alınarak okul projesi olarak gerçekleştirilmiştir. 
 
 ## Proje Gereksinimleri
 **Proje ortamı:** Ubuntu 18 <br>
